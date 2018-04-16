@@ -29,6 +29,6 @@ public class Caneta{
 	}
 	
 	public String toString(){
-		return "Marca: "+getMarca()+"\nCor: "+getCor()+"\nTamanho: "+getTamanho();
+		return "Marcas: "+getMarca()+"\nCor: "+getCor()+"\nTamanho: "+getTamanho();
 	}
 }
