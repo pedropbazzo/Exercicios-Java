@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/1"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/10"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/11"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/12"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/13"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/14"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/15"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/16"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/17"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/18"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/19"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/2"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/20"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/21"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/22"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/23"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/24"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/25"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/26"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/27"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/28"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/29"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/3"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/30"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/31"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/32"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/33"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/34"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/35"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/36"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/37"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/38"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/39"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/4"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/40"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/41"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/42"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/43"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/44"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/45"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/46"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/47"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/48"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/49"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/5"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/50"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/51"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/52"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/53"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/54"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/55"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/56"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/57"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/58"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/59"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/6"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/60"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/61"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/62"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/63"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/64"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/7"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/8"/>
+	<classpathentry kind="src" path="Lista - 64 Exercicios/9"/>
+	<classpathentry kind="src" path="Lista 2/1"/>
+	<classpathentry kind="src" path="Lista 2/2"/>
+	<classpathentry kind="src" path="Lista 2/3"/>
+	<classpathentry kind="src" path="Lista 3/1"/>
+	<classpathentry kind="src" path="Lista 3/2"/>
+	<classpathentry kind="src" path="Lista 3/3"/>
+	<classpathentry kind="src" path="Lista 4/1"/>
+	<classpathentry kind="src" path="Lista 4/2"/>
+	<classpathentry kind="src" path="Lista 4/3"/>
+	<classpathentry kind="src" path="Lista 5/1"/>
+	<classpathentry kind="src" path="Lista 5/2"/>
+	<classpathentry kind="src" path="Lista 5/3"/>
+	<classpathentry kind="src" path="Lista 5/4"/>
+	<classpathentry kind="src" path="Lista 5/5"/>
+	<classpathentry kind="output" path="Lista - 64 Exercicios/bin"/>
+</classpath>
