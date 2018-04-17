@@ -11,7 +11,7 @@ public class estoque_medio {
         Scanner entrada = new Scanner(System.in);
 	double quantidade_minima, quantidade_maxima,estoque_medio;
 	
-	System.out.print("Calculadora de Estoque Médio\n\n");
+	System.out.print("Calculadora de média de estoque\n\n");
 	
 	System.out.print("Digite a quantidade mímima:");
 	quantidade_minima = entrada.nextDouble();
